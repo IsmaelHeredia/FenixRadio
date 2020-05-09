@@ -5,7 +5,7 @@ Se puede agregar, editar y borrar emisoras, también se pueden importar y export
 
 Unas imágenes :
 
-![image](https://1.bp.blogspot.com/-e0NnPSe5s_U/XrbSZnkK_SI/AAAAAAAABQI/7BrxGvyEWjIaJRV48lufbkYEZzCY3lImgCLcBGAsYHQ/s400/9-5-2020%2B12.5.50%2B1.jpg)
+![image](https://1.bp.blogspot.com/-_DI7NcsUXAs/XrbbCijQdbI/AAAAAAAABRE/mEIGGRxXSjcwVysdGGOnBRlaTSVG88aCACLcBGAsYHQ/s1600/9-5-2020%2B13.5.49%2B1.jpg)
 
 ![image](https://1.bp.blogspot.com/-cejLvEvZqok/XrbSiNZkCEI/AAAAAAAABQQ/LBMwxa1NZJQP3Shgy49KDFIduzCodzkgACLcBGAsYHQ/s1600/9-5-2020%2B12.5.29%2B2.jpg)
 
