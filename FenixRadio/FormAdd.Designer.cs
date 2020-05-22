@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAdd));
             this.radGroupBox1 = new Telerik.WinControls.UI.RadGroupBox();
             this.txtCategories = new Telerik.WinControls.UI.RadTextBox();
             this.txtLink = new Telerik.WinControls.UI.RadTextBox();
@@ -69,7 +70,7 @@
             // 
             this.txtCategories.Location = new System.Drawing.Point(98, 107);
             this.txtCategories.Name = "txtCategories";
-            this.txtCategories.Size = new System.Drawing.Size(151, 24);
+            this.txtCategories.Size = new System.Drawing.Size(151, 20);
             this.txtCategories.TabIndex = 6;
             this.txtCategories.ThemeName = "TelerikMetro";
             // 
@@ -77,7 +78,7 @@
             // 
             this.txtLink.Location = new System.Drawing.Point(98, 71);
             this.txtLink.Name = "txtLink";
-            this.txtLink.Size = new System.Drawing.Size(151, 24);
+            this.txtLink.Size = new System.Drawing.Size(151, 20);
             this.txtLink.TabIndex = 5;
             this.txtLink.ThemeName = "TelerikMetro";
             // 
@@ -85,7 +86,7 @@
             // 
             this.txtName.Location = new System.Drawing.Point(98, 34);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(151, 24);
+            this.txtName.Size = new System.Drawing.Size(151, 20);
             this.txtName.TabIndex = 4;
             this.txtName.ThemeName = "TelerikMetro";
             // 
@@ -93,7 +94,7 @@
             // 
             this.lblCategories.Location = new System.Drawing.Point(28, 107);
             this.lblCategories.Name = "lblCategories";
-            this.lblCategories.Size = new System.Drawing.Size(70, 16);
+            this.lblCategories.Size = new System.Drawing.Size(68, 18);
             this.lblCategories.TabIndex = 2;
             this.lblCategories.Text = "Categories : ";
             this.lblCategories.ThemeName = "TelerikMetro";
@@ -102,7 +103,7 @@
             // 
             this.lblLink.Location = new System.Drawing.Point(27, 71);
             this.lblLink.Name = "lblLink";
-            this.lblLink.Size = new System.Drawing.Size(36, 16);
+            this.lblLink.Size = new System.Drawing.Size(35, 18);
             this.lblLink.TabIndex = 1;
             this.lblLink.Text = "Link : ";
             this.lblLink.ThemeName = "TelerikMetro";
@@ -111,7 +112,7 @@
             // 
             this.lblName.Location = new System.Drawing.Point(27, 34);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(46, 16);
+            this.lblName.Size = new System.Drawing.Size(45, 18);
             this.lblName.TabIndex = 0;
             this.lblName.Text = "Name : ";
             this.lblName.ThemeName = "TelerikMetro";
@@ -134,6 +135,7 @@
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.radGroupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "FormAdd";
             // 

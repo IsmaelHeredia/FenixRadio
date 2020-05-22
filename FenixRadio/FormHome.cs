@@ -409,7 +409,7 @@ namespace FenixRadio
             stop_stream();
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.InitialDirectory = Directory.GetCurrentDirectory();
-            openFileDialog.Title = "Save JSON File";
+            openFileDialog.Title = "Open JSON File";
             openFileDialog.DefaultExt = "json";
             openFileDialog.Filter = "JSON File (.json)|*.json";
             if (openFileDialog.ShowDialog() == DialogResult.OK)
