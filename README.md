@@ -1,9 +1,9 @@
-# FenixRadio
+# Fenix Radio
 
-Un programa en C# usando Telerik para los formularios y NAudio para poder reproducir los streams.
-Se puede agregar, editar y borrar emisoras, también se pueden importar y exportar estaciones mediante archivos JSON. También se validan las estaciones para saber cuales estan Offline y poder borrarlas. Ademas se pueden minizar y ocultar el formulario para molestar con la ventana, se tendra que hacer doble click en el icono que estara en la zona de iconos ocultas al lado de la hora.
+A C# program using Telerik for forms and NAudio to be able to play the streams.
+Stations can be added, edited and deleted, stations can also be imported and exported using JSON files. Stations are also validated to know which ones are offline and to be able to delete them. Also you can minize and hide the form to disturb the window, you will have to double click on the icon that will be in the area of hidden icons next to the time.
 
-Unas imágenes :
+Some images:
 
 ![image](https://1.bp.blogspot.com/-_DI7NcsUXAs/XrbbCijQdbI/AAAAAAAABRE/mEIGGRxXSjcwVysdGGOnBRlaTSVG88aCACLcBGAsYHQ/s1600/9-5-2020%2B13.5.49%2B1.jpg)
 
